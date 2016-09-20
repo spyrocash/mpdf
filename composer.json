@@ -1,12 +1,12 @@
 {
 
-	"name": "mpdf/mpdf",
+	"name": "spyrocash/mpdf",
 	"type": "library",
 
 	"description": "A PHP class to generate PDF files from HTML with Unicode/UTF-8 and CJK support",
 
 	"keywords": ["php", "pdf", "utf-8"],
-	"homepage": "http://mpdf.github.io",
+	"homepage": "https://github.com/spyrocash",
 
 	"license": ["GPL-2.0"],
 
@@ -18,9 +18,9 @@
 	],
 
 	"support": {
-		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
-		"docs": "http://mpdf.github.io"
+		"issues": "https://github.com/spyrocash/mpdf/issues",
+		"source": "https://github.com/spyrocash/mpdf",
+		"docs": "https://github.com/spyrocash"
 	},
 
 	"require": {
